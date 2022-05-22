@@ -65,7 +65,7 @@ const CreateProduct = () => {
             <input
               type="file"
               className={styles.input}
-              accept=".zip,.rar,.7zip"
+              accept="*"
               placeholder="Emojis"
               onChange={onChange}
             />

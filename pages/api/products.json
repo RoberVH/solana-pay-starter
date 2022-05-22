@@ -16,5 +16,14 @@
     "description": "Albert Einstein letter signature",
     "filename": "albert Einstein.jpeg",
     "hash": "QmfHRAWtbdzadnPXaemTqkiHMof6tVhd9ZA4dgByJrcaeV"
+  },
+  {
+    "id": 3,
+    "name": "Walt Disney",
+    "price": "0.01",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Walt_Disney_1942_signature.svg",
+    "description": "Wlat Disney Signature",
+    "filename": "walt-disney.jpg",
+    "hash": "Qma2tTuddoFMyiQXVHX2zBoTps8jgtZJeVf8A7XHfaT37f"
   }
 ]
